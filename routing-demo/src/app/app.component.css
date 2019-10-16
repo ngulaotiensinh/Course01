@@ -1,0 +1,5 @@
+nav a, nav a.active {
+  color: red;
+  margin: 10px;
+  font-size: 2em;
+}
